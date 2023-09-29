@@ -26,7 +26,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:evh5150rock@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Markevo5150"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://api.whatsapp.com/send?phone=50374732214&text=Hola,%20encontre%20tu%20numero%20por%20medio%20de%20tu%20perfil%20de%20GitHub"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
