@@ -160,8 +160,6 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Markevo5150&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Markevo5150" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=Markevo5150)](https://holopin.io/@Markevo5150)
-	
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
@@ -170,8 +168,8 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Markevo5150/medic-app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=medic-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
