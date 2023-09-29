@@ -175,7 +175,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=api-medic&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Markevo5150/Reproductor">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=reproductor&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=reproductor&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/Markevo5150/ScoreTarget">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=ScoreTarget&theme=tokyonight" alt="GitHub Stats" />
