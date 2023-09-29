@@ -19,7 +19,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Programming Profiles
 
-<p align="center">
+<p align="space-between">
 	<a href="https://www.frontendmentor.io/profile/Markevo5150"><img src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="FrontMentor" width = 200px/ </a>
 	<a href="https://www.hackerrank.com/antoniodevain"><img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" alt="Hacker Rank" width = 150px/ ></a>
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
