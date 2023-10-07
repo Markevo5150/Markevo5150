@@ -140,7 +140,7 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><a>💻 GitHub Profile Stats</a></summary>
 
 ----
 	
@@ -154,7 +154,7 @@
   </p>
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<details><summary> <a> :trophy: Git profile Trophies </a></summary>
 
 ----
 	
@@ -162,7 +162,7 @@
 
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><a> :open_file_folder: My Repositories </a></summary>
 
 ----
 	
