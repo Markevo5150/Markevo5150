@@ -171,6 +171,9 @@
 	<a href="https://github.com/Markevo5150/medic-app">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=medic-app&theme=tokyonight" alt="GitHub Stats" />
     	</a>
+	<a href="https://github.com/Markevo5150/3-column-component">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=medic-app&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
 	<a href="https://github.com/Markevo5150/api-medic">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Markevo5150&repo=api-medic&theme=tokyonight" alt="GitHub Stats" />
     	</a>
